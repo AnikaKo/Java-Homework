@@ -1,3 +1,5 @@
+package HomeworksBeforeClass9;
+
 public class TemperatureCheck {
     public static void main(String[] args) {
        /* Create a Java program and name it Temperature Check.

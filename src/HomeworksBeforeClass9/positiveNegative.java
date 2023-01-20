@@ -1,3 +1,5 @@
+package HomeworksBeforeClass9;
+
 public class positiveNegative {
     public static void main(String[] args) {
         /*Write a program to check whether number is positive or negative.

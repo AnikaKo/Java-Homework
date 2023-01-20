@@ -1,3 +1,5 @@
+package HomeworksBeforeClass9;
+
 public class DoubleComparsion {
     public static void main(String[] args) {
         /*Create a Java program and name it Double Comparison.
