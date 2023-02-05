@@ -6,7 +6,7 @@ public class Task2 {
         // Find out how many Alphanumeric(abd AZ 284) characters are there in the String.
 
         String str =" Anika.0108&Mimi";
-
+        System.out.println(str.replaceAll("[^A-Za-z0-9]","").length());
 
     }
 }

@@ -10,7 +10,14 @@ public class Task6 {
     b=a.substring(0,a.length()-b.length());
     a=a.substring((b.length()));
         System.out.println(a+" "+b);
-
+/* ako je INT u pitanju
+int a =20;
+int b=30;
+a=a+b;
+b=a-b;
+a=a-b;
+System.out.println(a+" "+b):
+ */
 
 
 
